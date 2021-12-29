@@ -20677,10 +20677,10 @@ vue-i18n-extract@1.0.2:
     is-valid-glob "^1.0.0"
     yargs "^13.2.2"
 
-vue-i18n@8.24.3, vue-i18n@^8.17.0:
-  version "8.24.3"
-  resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-8.24.3.tgz#2233ae11ec59e8204df58a28fc41afe9754e3b41"
-  integrity sha512-uKAYzGbwGIJndY7JwhQwIGi1uyvErWkBfFwooOtjcNnIfMbAR49ad5dT/MiykrJ9pCcgvnocFjFsNLtTzyW+rg==
+vue-i18n@8.26.8, vue-i18n@^8.17.0:
+  version "8.26.8"
+  resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-8.26.8.tgz#afe936adbf96ff0e9808e04845b8f41cc21c666f"
+  integrity sha512-BN2OXolO15AKS95yNF8oOtARibaO6RxyKkAYNV4XpOmL7S4eVZYMIDtyvDv+XGZaiUmBJSH9mdNqzexvGMnK2A==
 
 vue-jest@^3.0.5, vue-jest@^3.0.7:
   version "3.0.7"
