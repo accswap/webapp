@@ -4215,12 +4215,10 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/composition-api@^1.0.0-rc.7":
-  version "1.0.0-rc.7"
-  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-rc.7.tgz#05a9e81ad91d85d3390b1386c0079666d2e1b3bb"
-  integrity sha512-aj/lWD+9dmJ+r9qkbASByqlphkbwvZ8q1T7yC5H1leWSdtxfWg7tDR98vZEKzjikRSztwC7xrtrLwOnt8glQDA==
-  dependencies:
-    tslib "^2.2.0"
+"@vue/composition-api@^1.6.3":
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.6.3.tgz#3b1486608f1682e8bc03c71e1fd58013b0b7a093"
+  integrity sha512-f0TgOKqU460QyVLp5URi8LMVJ3eE3/3OuFrytItSNmp5FbisS67jVvUZg7pzIzZonqc4chG1SNS48PMOsH7a4g==
 
 "@vue/eslint-config-prettier@^6.0.0":
   version "6.0.0"
