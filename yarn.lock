@@ -3171,13 +3171,13 @@
     "@sentry/utils" "6.3.1"
     tslib "^1.9.3"
 
-"@sentry/integrations@^6.3.1":
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/@sentry/integrations/-/integrations-6.3.1.tgz#8bd4c05a83c5fe8ece6cb59a6e31e1e632a14af8"
-  integrity sha512-fB0+CmU2L2VJ8WyI33t060lxpBNAoh092jzMGEnnfPKTVMxnscjFrISzrWXQZs/OoR6q8Yo/+pZAT5gWA0dDOQ==
+"@sentry/integrations@^7.31.0":
+  version "7.31.0"
+  resolved "https://registry.yarnpkg.com/@sentry/integrations/-/integrations-7.31.0.tgz#b0beda47d616111ea8804a65b47e03acb8460b6a"
+  integrity sha512-pZyxY2t92gWmqULXsSEAjy5LMUyFWTA4f5AL+2gB5xmUjYXSaKT37R7sX5IQ2MVbCyrpJZERklx2LLhCrKtigw==
   dependencies:
-    "@sentry/types" "6.3.1"
-    "@sentry/utils" "6.3.1"
+    "@sentry/types" "7.31.0"
+    "@sentry/utils" "7.31.0"
     localforage "^1.8.1"
     tslib "^1.9.3"
 
@@ -3206,12 +3206,25 @@
   resolved "https://registry.yarnpkg.com/@sentry/types/-/types-6.3.1.tgz#af3b54728b29f633f38fbe51b8c10e3834fbc158"
   integrity sha512-BEBn8JX1yaooCAuonbaMci9z0RjwwMbQ3Eny/eyDdd+rjXprZCZaStZnCvSThbNBqAJ8YaUqY2YBMnEwJxarAw==
 
+"@sentry/types@7.31.0":
+  version "7.31.0"
+  resolved "https://registry.yarnpkg.com/@sentry/types/-/types-7.31.0.tgz#c028519a660d76c4e8f18ba9e44ede45d314fcae"
+  integrity sha512-nFqo7wyMnapdSEdw1MD+cavDtD9x5QQmh/bwLEOb/euM0cHFJHYyD7CveY/mQng4HyEVWY+DCtX/7E3GcQ7Bdw==
+
 "@sentry/utils@6.3.1":
   version "6.3.1"
   resolved "https://registry.yarnpkg.com/@sentry/utils/-/utils-6.3.1.tgz#6d8e691139b5b49d8c655ad1dcaf2cb3ff0d0b03"
   integrity sha512-cdtl/QWC9FtinAuW3w8QfvSfh/Q9ui5vwvjzVHiS1ga/U38edi2XX+cttY39ZYwz0SQG99cE10GOIhd1p7/mAA==
   dependencies:
     "@sentry/types" "6.3.1"
+    tslib "^1.9.3"
+
+"@sentry/utils@7.31.0":
+  version "7.31.0"
+  resolved "https://registry.yarnpkg.com/@sentry/utils/-/utils-7.31.0.tgz#507290984c941fca8f5c2621a4b8b0aca8fbfc10"
+  integrity sha512-B1KkvdfwlaqM7sDp3/yk2No7WsbMuLEywGRVOLzXeTqTLSBRBWyyYIudqPtx2LDds9anlUHj21zs9FKY+S3eiA==
+  dependencies:
+    "@sentry/types" "7.31.0"
     tslib "^1.9.3"
 
 "@sindresorhus/is@^0.14.0":
